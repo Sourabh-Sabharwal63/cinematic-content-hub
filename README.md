@@ -1,20 +1,22 @@
 # Getting Started with Create React App
 
 #HomePage
-![alt text](<screenshots/Screenshot 2024-11-04 213437.png>)
+![alt text](<screenshots/Screenshot 2024-11-20 200657.png>)
  
  -Recommendations
  ![alt text](<screenshots/Screenshot 2024-11-04 213557.png>)
 
 #SearchPage
-![alt text](<screenshots/Screenshot 2024-11-04 213640.png>)
+![alt text](<screenshots/Screenshot 2024-11-20 200927.png>)
 
 -Search_Results
-![alt text](<screenshots/Screenshot 2024-11-04 213722.png>)
+![alt text](<screenshots/Screenshot 2024-11-20 200953.png>)
 
 
 
-![alt text](<screenshots/Screenshot 2024-11-13 170807.png>)  
+![alt text](<screenshots/Screenshot 2024-11-20 203648.png>) 
+
+![alt text](<screenshots/Screenshot 2024-11-20 204122.png>)
 
 ![alt text](<screenshots/Screenshot 2024-11-13 170605.png>)
 

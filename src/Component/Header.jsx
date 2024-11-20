@@ -1,5 +1,5 @@
 import React from "react";
-import Images from "./netflix_logo_icon.png";
+import Images from "./WEBSITE_LOGO.png";
 import Profile_pic from "./Venom_Poster.jpg";
 import { useDispatch } from "react-redux";
 import { changePageStatus } from "./utils/Redux/GPTSlice";
@@ -17,7 +17,7 @@ const Header = () => {
   }
   return (
     <div className="md:absolute w-screen px-1 md:px-8 py2  z-10 flex  flex-col  bg-black sm:bg-transparent  sm:bg-gradient-to-b sm:from-black sm:to-transparent md:flex-row md:justify-between md:bg-transparent md:bg-gradient-to-b md:from-black md:to-transparent ">
-      <img className="w-24  md:w-40 mx-auto  md:mx-0" src={Images} alt="logo" /> 
+      <img className="w-48 h-20  md:w-48 md:h-14 mx-auto  md:mx-0" src={Images} alt="logo" /> 
       <div className="flex justify-between p-0 md:p-2 md:justify-around ">
        
        

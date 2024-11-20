@@ -5,6 +5,7 @@ import { useSelector } from "react-redux";
 import { addTrailerKey } from "../utils/Redux/trailerSlice";
 const useVideo = () => {
   const video_id=useSelector(store=>store?.trailerSlice?.id);
+  
   const [data, setData] = useState(null);
   const dispatch = useDispatch();
   const getVideo = async () => {
@@ -17,6 +18,7 @@ const useVideo = () => {
   }, [video_id]);
  
   if (data) { 
+    console.log("data",data);
     const Filter_Trailer = data.results.filter((video) => {
        return video.type === "Trailer";
     });

@@ -12,17 +12,17 @@ const Body = () => {
   const appRouter=createBrowserRouter([
     {
       path:"/",
-      element:<Login/>
+      element:<Browse/>
     },
     {
       path:"/signup",
       element:<Signup/>
     }
     ,
-    {
+   /* {
       path:"/browse",
-      element:<Browse/>
-    }
+      element:<Login/>
+    }*/
   ])
   return (
     <div>

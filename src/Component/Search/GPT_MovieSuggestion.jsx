@@ -9,7 +9,7 @@ const GPT_MovieSuggestion = () => {
 
 
 
-  if(!search_word || !searchList ) return ( <div>Loading.....</div>)
+  if(!search_word || !searchList ) return null;
   return (
     <div>
       <MovieList title={"Result"} movies={searchList}/>

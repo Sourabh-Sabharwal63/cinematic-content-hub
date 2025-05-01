@@ -15,6 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://Sourabh-Sabharwal63.github.io/cinematic-content-hub",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

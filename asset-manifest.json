@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cinematic-content-hub/static/css/main.d0376ce4.css",
+    "main.js": "/cinematic-content-hub/static/js/main.463f8ea7.js",
+    "static/media/Venom_Poster.jpg": "/cinematic-content-hub/static/media/Venom_Poster.66ef0be46119ba3a00d9.jpg",
+    "static/media/WEBSITE_LOGO.png": "/cinematic-content-hub/static/media/WEBSITE_LOGO.eac7bbce7ccb4a5fa227.png",
+    "index.html": "/cinematic-content-hub/index.html",
+    "main.d0376ce4.css.map": "/cinematic-content-hub/static/css/main.d0376ce4.css.map",
+    "main.463f8ea7.js.map": "/cinematic-content-hub/static/js/main.463f8ea7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0376ce4.css",
+    "static/js/main.463f8ea7.js"
+  ]
+}
